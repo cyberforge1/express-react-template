@@ -4,7 +4,7 @@ export interface Todo {
 }
 
 // LOCAL BACKEND PORT
-const API_URL = 'http://127.0.0.1:5000/';
+const API_URL = 'http://127.0.0.1:3000/';
 
 export const fetchTodos = async (): Promise<Todo[]> => {
   const response = await fetch(`${API_URL}todo/`);
