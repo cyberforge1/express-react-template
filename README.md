@@ -1,9 +1,5 @@
 # Express React Template
 
-## Description
-
-A template full-stack app using ExpressJS, ReactJS and MySQL.
-
 # Project MVP
 
 ## Frontend
